@@ -9,7 +9,7 @@ attrs==23.2.0
 Babel==2.15.0
 beautifulsoup4==4.12.3
 bleach==6.1.0
-bokeh==3.4.3
+bokeh==3.5.2
 certifi==2024.7.4
 cffi==1.16.0
 charset-normalizer==3.3.2
@@ -66,7 +66,7 @@ overrides==7.7.0
 packaging==24.1
 pandas==2.2.2
 pandocfilters==1.5.1
-panel==1.4.4
+panel==1.5.0
 param==2.1.1
 parso==0.8.4
 pexpect==4.9.0
